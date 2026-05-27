@@ -56,7 +56,3 @@ Results contain mean and standard deviation over 5 random 70/10/20 train-validat
 * `MICE`
 * `SVD(FIW)`
 * `MM(FIW)` = multi-modal combination of KNN + MICE + FIW-SVD
-
-## Citation
-
-If you use this code, please cite our paper.
